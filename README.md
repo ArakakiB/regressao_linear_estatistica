@@ -1,2 +1,4 @@
 # regressao_linear_estatistica
-Aqui demonstro como realizar a regressao linear pura (sem biblioteca) para entendermos melhor os conceitos matematicos por tras das bibliotecas prontas. Também faço uma comparação entre as 2 formas.
+#### Primeiro demonstro como realizar a regressao linear pura (sem biblioteca) para entendermos melhor os conceitos matematicos por de trás das bibliotecas prontas e também faço uma comparação entre as 2 formas.
+#### Depois demonstro como aplicar o modelo de regressão linear para fazermos a predição das idades faltantes dos datasets do titanic.
+### Obs: O foco aqui não é o score obtido, e sim a demonstração de aplicação.
